@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[snl:home|Door43 (snl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-snl|d43-snl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-snl/archive/master.zip|d43-snl.zip]]
+
+**Recent Changes**
+{{changes>ns = snl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/snl|Ethnologue data]]
+
